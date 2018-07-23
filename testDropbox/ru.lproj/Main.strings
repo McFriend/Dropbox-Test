@@ -1,0 +1,9 @@
+
+/* Class = "UIButton"; normalTitle = "Select new file"; ObjectID = "EiU-7e-UEO"; */
+"EiU-7e-UEO.normalTitle" = "Выберите новый файл";
+
+/* Class = "UINavigationItem"; title = "Dropbox"; ObjectID = "KN3-Ht-iAo"; */
+"KN3-Ht-iAo.title" = "Dropbox";
+
+/* Class = "UITextView"; text = "You haven't selected any file from your dropbox storage yet."; ObjectID = "t0B-Ke-Pu3"; */
+"t0B-Ke-Pu3.text" = "Вы еще не выбрали ни одного файла в Dropbox.";

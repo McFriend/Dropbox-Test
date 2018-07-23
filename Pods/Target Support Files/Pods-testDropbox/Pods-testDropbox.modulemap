@@ -1,0 +1,6 @@
+framework module Pods_testDropbox {
+  umbrella header "Pods-testDropbox-umbrella.h"
+
+  export *
+  module * { export * }
+}

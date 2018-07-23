@@ -1,0 +1,15 @@
+"Title" = "Name";
+"Size" = "Size";
+"Last modified" = "Last modified";
+"URL" = "URL";
+"You haven't selected any file from your dropbox storage yet." = "You haven't selected any file from your dropbox storage yet.";
+"Failed to authorize" = "Failed to authorize";
+"LogOut" = "Log out";
+"Close" = "Close";
+"Folder is empty" = "Folder is empty";
+"files" = "files";
+"LogOutTitle" = "Log out from Dropbox";
+"LogOutDesc" = "Are you sure you want to log out";
+"Error" = "An error occurred";
+"OK" = "OK";
+"Cancel" = "Cancel";

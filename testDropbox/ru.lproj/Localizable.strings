@@ -1,0 +1,15 @@
+"Title" = "Название";
+"Size" = "Размер";
+"Last modified" = "Последнее изменение";
+"URL" = "URL";
+"You haven't selected any file from your dropbox storage yet." = "Вы еще не выбрали ни одного файла в Dropbox.";
+"Failed to authorize" = "Не удалось авторизоваться";
+"LogOut" = "Выйти";
+"Close" = "Закрыть";
+"Folder is empty" = "Папка пуста";
+"files" = "файлов";
+"LogOutTitle" = "Выход из Dropbox";
+"LogOutDesc" = "Вы уверены что хотите выйти из аккаунта";
+"Error" = "Произошла ошибка";
+"OK" = "ОК";
+"Cancel" = "Отмена";
